@@ -1,4 +1,4 @@
-# LAB - 06
+# LAB - Class 06
 
 ## Project: ten-thousand
 
@@ -27,5 +27,5 @@ python game_logic.py
 2. The tests included:
 
 * Checking if the calculate score was returning the correct score for each dice roll.
-* 
-* If the dice roll method was returning a tuple with numbers in the range of the numbers on the dice
+
+* Checking if the dice roll method was returning a tuple with numbers in the range of the numbers on the dice
