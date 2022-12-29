@@ -12,7 +12,7 @@ class Game:
         self.current_dice_options = []
 
     def welcome_greeting(self):
-        print('Welcome to ten Ten Thousand')
+        print('Welcome to Ten Thousand')
         print("(y)es to play or (n)o to decline")
 
     def new_roll(self, roller):
@@ -71,7 +71,7 @@ class Game:
                 self.new_roll(roller)
 
                 user_answer = input("Enter dice to keep, or (q)uit:\n> ")
-                user_answer = user_answer.replace(" ", "")
+                print(user_answer)
                 if user_answer == "q":
                     self.quit_game()
                 users_dice_picks = self.string_to_list(user_answer)
