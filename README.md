@@ -42,3 +42,11 @@ python -m ten_thousand.game.py
 * Application should keep track of total score
 
 * Application should keep track of current round
+
+* Application should handle setting aside scoring dice and continuing turn with remaining dice.
+
+* Application should handle when cheating occurs
+
+* Application should allow user to continue rolling with 6 new dice when all dice have scored in correct turn
+
+* Handle zilch
