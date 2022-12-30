@@ -23,7 +23,7 @@ Dice Roll game that uses tuples, dictionaries and methods to pick random dice an
 
 ### How to initialize application
 
-python -m ten_thousand.game.py
+python -m ten_thousand.game
 
 ### Tests
 
