@@ -6,6 +6,8 @@
 
 Dice Roll game that uses tuples, dictionaries and methods to pick random dice and calculate score.
 
+
+
 ## Author: Eric Kinuthia and Erik M. Dodd and Domaine Scully
 
 ## Feature Tasks and Requirements
@@ -24,6 +26,8 @@ Dice Roll game that uses tuples, dictionaries and methods to pick random dice an
 ### How to initialize application
 
 python -m ten_thousand.game
+
+to run bot `python3.11 bots.py`
 
 ### Tests
 
